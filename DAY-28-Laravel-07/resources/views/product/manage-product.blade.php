@@ -66,7 +66,7 @@
             var check = confirm('Are you sure to delete this?');
             if (check)
             {
-                document.getElementById('deleteStudentForm'+id).submit();
+                document.getElementById('deleteProductForm'+id).submit();
             }
         }
     </script>
